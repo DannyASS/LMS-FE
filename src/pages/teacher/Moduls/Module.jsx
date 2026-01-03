@@ -6,7 +6,7 @@ import ContainerMution from "@/compenent/partial/ContainerCustom";
 import { useNavigate } from "react-router-dom";
 import MenuPageStandart from "@/compenent/partial/MenuPageStandart";
 import ButtonAction from "@/compenent/partial/ButtonActionTable";
-import { GetListModuleUtils } from "./Utils/ModuleUtils";
+import { GetListModuleUtils } from "./utils/ModuleUtils";
 import ServerPagination from "@/compenent/partial/TablePagination";
 import Input from "@/compenent/partial/Input";
 
