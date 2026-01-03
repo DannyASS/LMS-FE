@@ -14,7 +14,7 @@ import {
 import Input from "@/compenent/partial/Input";
 import Label from "@/compenent/partial/Labels";
 import Button from "@/compenent/partial/Button";
-import { registerUtils } from "./utils/utils_register";
+import { registerUtils } from "./Utils/utils_register";
 import { PasswordInput } from "@/compenent/partial/PasswordInput";
 
 export function RegisterPage() {
